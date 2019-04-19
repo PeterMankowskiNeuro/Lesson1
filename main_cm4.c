@@ -24,6 +24,7 @@ TaskHandle_t    xHandle1;
 TaskHandle_t    xHandle2;
 
 /* Global Variables */
+/********************/
 uint32_t pinStateHigh = 0UL;
 uint32_t pinStateLow  = 1UL;
 
