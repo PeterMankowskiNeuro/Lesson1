@@ -1,5 +1,6 @@
 /*******************************************************************************
 * My 1st GitHUB Project
+* Adding Header notes
 *
 * File Name: main_cm0p.c
 *
